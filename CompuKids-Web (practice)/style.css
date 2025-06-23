@@ -1,0 +1,38 @@
+h1{
+    color:blueviolet;
+    font-family: fantasy;
+}
+h2{
+    color:rgb(110, 226, 43);
+    font-family: Verdana;
+}
+h3{
+    color:rgb(226, 43, 43);
+}
+
+p{
+    color: brown;
+}
+
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+    list-style-type: lower-roman;
+    
+}
+
+#menu-bar a{
+    text-decoration: none;
+    background-color: rgb(255, 127, 197);
+    font-family: Helvetica, sans-serif;
+    padding: 5px;
+    color: rgb(12, 39, 196);
+    
+}
+
+#menu-bar a:hover{
+    background-color: rgb(194, 129, 178);
+}
+
